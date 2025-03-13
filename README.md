@@ -11,8 +11,9 @@ This project focuses on **Exploratory Data Analysis (EDA)** for an agriculture d
 ## 🚀 Tasks Performed
 ### 1️⃣ Data Cleaning
 - Identified and handled missing values.
--📌 **Visualizations of missing data before cleaning:**
-![missing data](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Percentage.png))
+- 
+📌 **Visualizations of missing data before cleaning:**
+![missing data](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Percentage.png)
 - Imputed missing numerical values using **mean/median**.
 - Replaced missing categorical values with **mode**.
 - Visualized missing data before and after cleaning.
@@ -28,11 +29,11 @@ This project focuses on **Exploratory Data Analysis (EDA)** for an agriculture d
 
 📌 **Outlier Box Plot Before Treatment:**
 
-![Outlier Detection](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Boxplot%20for%20outlier%20detection.png))
+![Outlier Detection](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Boxplot%20for%20outlier%20detection.png)
 
 📌 **Outlier Box Plot After Treatment:**
 
-![Outlier Detection](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Box%20Plot%20After%20Outlier%20Treatment.png))
+![Outlier Detection](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Box%20Plot%20After%20Outlier%20Treatment.png)
 
 ### 4️⃣ Visualization of Results
 - **Histograms** for numerical feature distributions.
@@ -41,11 +42,11 @@ This project focuses on **Exploratory Data Analysis (EDA)** for an agriculture d
 
 📌 **Histogram of Numerical Features:**
 
-![Histograms](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Histograms%20of%20Numerical%20Features.png))
+![Histograms](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Histograms%20of%20Numerical%20Features.png)
 
 📌 **Bar Chart for Categorical Feature Distribution:**
 
-![Bar Chart](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Bar%20Charts%20for%20Categorical%20Features.png))
+![Bar Chart](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Bar%20Charts%20for%20Categorical%20Features.png)
 
 ## 🛠️ Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
