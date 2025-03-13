@@ -11,6 +11,8 @@ This project focuses on **Exploratory Data Analysis (EDA)** for an agriculture d
 ## 🚀 Tasks Performed
 ### 1️⃣ Data Cleaning
 - Identified and handled missing values.
+📌 **Visualizations of missing data before cleaning:**
+![missing data](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Percentage%20of%20Missing%20Values.png))
 - Imputed missing numerical values using **mean/median**.
 - Replaced missing categorical values with **mode**.
 - Visualized missing data before and after cleaning.
@@ -39,11 +41,11 @@ This project focuses on **Exploratory Data Analysis (EDA)** for an agriculture d
 
 📌 **Histogram of Numerical Features:**
 
-![Histograms](path/to/histogram_plot.png)
+![Histograms](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Histograms%20of%20Numerical%20Features.png))
 
 📌 **Bar Chart for Categorical Feature Distribution:**
 
-![Bar Chart](path/to/bar_chart.png)
+![Bar Chart](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Bar%20Charts%20for%20Categorical%20Features.png))
 
 ## 🛠️ Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
