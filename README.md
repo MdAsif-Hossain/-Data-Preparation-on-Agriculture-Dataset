@@ -11,8 +11,8 @@ This project focuses on **Exploratory Data Analysis (EDA)** for an agriculture d
 ## 🚀 Tasks Performed
 ### 1️⃣ Data Cleaning
 - Identified and handled missing values.
-📌 **Visualizations of missing data before cleaning:**
-![missing data](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Percentage%20of%20Missing%20Values.png))
+-📌 **Visualizations of missing data before cleaning:**
+![missing data](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Percentage.png))
 - Imputed missing numerical values using **mean/median**.
 - Replaced missing categorical values with **mode**.
 - Visualized missing data before and after cleaning.
