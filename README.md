@@ -26,7 +26,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** for an agriculture d
 
 📌 **Outlier Box Plot Before Treatment:**
 
-![Outlier Detection]([path/to/outlier_plot_before.png](https://github.com/MdAsif-Hossain/-Data-Preparation-on-Agriculture-Dataset/blob/main/Charts/Boxplot%20for%20outlier%20detection.png))
+![Outlier Detection](Charts/Boxplot for outlier detection.png)
 
 📌 **Outlier Box Plot After Treatment:**
 
